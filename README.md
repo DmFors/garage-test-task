@@ -8,9 +8,16 @@ You can run the task online at [itch.io](https://dmfors.itch.io/garage-test-task
 
 This project was created as part of a test assignment.
 
-## Description
+## Visual Assets Used
 
+- **Garage Shelf**: [Link](https://assetstore.unity.com/packages/3d/props/interior/shelf-646)  
+  The garage shelf model used to display items.
 
+- **Low Poly Mini Pickup Truck**: [Link](https://assetstore.unity.com/packages/3d/vehicles/land/low-poly-mini-pickup-truck-244733)  
+  The pickup truck model where items are placed.
+
+- **Low Poly Objects Pack**: [Link](https://assetstore.unity.com/packages/3d/props/low-poly-objects-pack-241890)  
+  A collection of low-poly objects used for various items in the game.
 
 ## Features
 
