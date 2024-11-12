@@ -1,20 +1,22 @@
 # Garage Test Task
 
+## Demo
+
+You can run the task online at [itch.io](https://dmfors.itch.io/garage-test-task)
+
 ## Overview
 
 This project was created as part of a test assignment.
 
 ## Description
 
-## Demo
 
-You can run the task online at [itch.io](https://dmfors.itch.io/garage-test-task)
 
 ## Features
 
 - **Interactive Environment**: Explore the garage and interact with various objects.
 - **Item Pickup Mechanic**: Use the designated key to pick up items.
-- **Drop Mechanic**: Place items into the pickup truck with ease.
+- **Drop Mechanic**: Place items into the pickup truck.
 - **User -Friendly Interface**: Clear hints guide you through the gameplay.
 
 ## Requirements
